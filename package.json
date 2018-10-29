@@ -1,7 +1,7 @@
 {
   "name": "liferay-fragment-export",
   "main": "./lib/liferay-fragment-export",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Liferay Fragment Exporter",
   "keywords": [],
   "activationCommands": {
